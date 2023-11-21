@@ -1,0 +1,1 @@
+.board{display:grid;gap:3px;grid-template-columns:repeat(4,100px);justify-content:center}.cell{height:100px}.cell,.cell_active{border:3px solid green}.cell_active{background-image:url(2dbd01ce16c0fa83cb67.png);background-position:50%;background-repeat:no-repeat;background-size:contain}
